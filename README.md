@@ -91,18 +91,6 @@ I’m open to collaborating on:
 - Email: [Gmail](mailto:damian.d.smythe@gmail.com)
 
 ---
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Day-Smythe&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Day-Smythe&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ## 🧭 Philosophy
 
 > “In three words I can sum up everything I've learned in my life: life carries on."
