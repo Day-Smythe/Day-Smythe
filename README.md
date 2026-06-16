@@ -22,14 +22,12 @@ I am based in Cape Town in South Africa and so i am in a GMT+2 time zone, this m
  - C
  - ASM
  - Fortran
- - R
- - Python
 
 
 ### API's & Libraries
 
- - Vulkan
- - OpenGL
+ - OpenMP
+ - OpenCL
 
 ## 📂 Featured Projects
 
@@ -44,7 +42,7 @@ I am based in Cape Town in South Africa and so i am in a GMT+2 time zone, this m
 
 ## 📈 Current Hyper Fixation 
 
-Making a free and open source graphics library for 2d graphics that can out perform Vulkan while taking up less system resources.
+Making a free and open source CFD library that is as accurate as posible, while still being optimized for consumer hardware.
 
 ---
 ## 🤝 Collaboration
@@ -57,11 +55,6 @@ I’m open to collaborating on:
 ## 📫 Contact
 
 - Email: [Outlook](mailto:damian.smythe@outlook.com)
-
----
-## 🧭 Philosophy
-
-> “In three words I can sum up everything I've learned in my life: life carries on."
 
 ---
 
