@@ -42,7 +42,7 @@ I am based in Cape Town in South Africa and so i am in a GMT+2 time zone, this m
 
 ## 📈 Current Hyper Fixation 
 
-Making a free and open source CFD library that is as accurate as posible, while still being optimized for consumer hardware.
+None :(
 
 ---
 ## 🤝 Collaboration
